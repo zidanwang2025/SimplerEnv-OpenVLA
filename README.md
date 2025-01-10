@@ -1,5 +1,8 @@
 # SimplerEnv: Simulated Manipulation Policy Evaluation Environments for Real Robot Setups
 
+## About This Repository
+This repository is forked from [DelinQu/SimplerEnv-OpenVLA](https://github.com/DelinQu/SimplerEnv-OpenVLA) and includes some added objects and tasks.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simpler-env/SimplerEnv/blob/main/example.ipynb)
 
 ![](./images/teaser.png)
